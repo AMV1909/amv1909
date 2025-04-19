@@ -35,12 +35,12 @@
 ### 🛠️ Projects
 
 #### 🌐 Fullstack Web App
-**Eeeraapee**  
+**[Eeeraapee](https://eeeraapee.com)**  
 Eeeraapee is an innovative business management tool designed to streamline and optimize organizational workflows. The application offers role-based access, user management, detailed product catalogs, and document management capabilities, including quotations, sales orders, and invoices.  
 > Stack: `Next.js`, `TypeScript`, `Node.js`, `Tailwind CSS`, `Zustand`, `PostgreSQL`, `Stripe`
 
 #### 🌐 Fullstack Web App
-**Funcadi**  
+**[Funcadi](https://qf.funcadi.com.co)**  
 Funcadi is a modern full stack application developed with the Stack MERN for manage chemical pharmaceutical patient records, manage appoinments for patients, export data as excel or pdf and many more.
 > Stack: `React.js`, `Typescript`, `Bun`, `Zustand`, `MongoDB`
 
@@ -54,8 +54,9 @@ The web app simplifies the search for tutoring for university students, automati
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amv1909&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amv1909&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amv1909&show_icons=true&theme=dark&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amv1909&theme=dark&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amv1909&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Top Languages" height="180" />
 </p>
 
 ---
