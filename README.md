@@ -56,7 +56,7 @@ The web app simplifies the search for tutoring for university students, automati
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amv1909&show_icons=true&theme=dark&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amv1909&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amv1909&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amv1909&layout=compact&theme=dark&count_private=true" alt="Top Languages" height="180" />
 </p>
 
 ---
