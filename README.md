@@ -36,17 +36,14 @@
 
 ### 🛠️ Top Projects
 
-#### 🌐 Fullstack Web App
 **[Eeeraapee](https://eeeraapee.com)**  
 Eeeraapee is an innovative business management tool designed to streamline and optimize organizational workflows. The application offers role-based access, user management, detailed product catalogs, and document management capabilities, including quotations, sales orders, and invoices.  
 > <p><img src="https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-000?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" /></p>
 
-#### 🌐 Fullstack Web App
 **[Funcadi](https://qf.funcadi.com.co)**  
 Funcadi is a modern full stack application developed with the Stack MERN for manage chemical pharmaceutical patient records, manage appoinments for patients, export data as excel or pdf and many more.
 > <p><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Bun-black?logo=bun&logoColor=white" /> <img src="https://img.shields.io/badge/Zustand-000?logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /></p>
 
-#### 🌐 Fullstack Web App
 **Plan Padrino - UNAB**  
 The web app simplifies the search for tutoring for university students, automatically connecting them with tutors based on their academic profile and availability, streamlining the process and improving access to academic support.
 > <p><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white" />
