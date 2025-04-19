@@ -34,7 +34,7 @@
 
 ---
 
-### 🛠️ TOP Projects
+### 🛠️ Top Projects
 
 #### 🌐 Fullstack Web App
 **[Eeeraapee](https://eeeraapee.com)**  
